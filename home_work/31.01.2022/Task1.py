@@ -25,4 +25,4 @@ def res(type):
         return mult(type)
 
 num = input("+/*: ")
-print(res(*num))
+print(res(num))
