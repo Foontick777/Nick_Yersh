@@ -1,0 +1,1 @@
+print((lambda **data: {k*2: v for k, v in data.items()})(abc= 5, defe= 1, cbn= 6, ewf= 4))
