@@ -1,13 +1,12 @@
-with open('test1.txt', 'r') as my_file1:
+with open('test1.txt') as my_file1:
     l1 = my_file1.readlines()
-with open('test2.txt', 'r') as my_file2:
+with open('test2.txt') as my_file2:
     l2 = my_file2.readlines()
 for i in range(len(l2)):
     if l1[i] == l2[i]:
         print(f'{i + 1} строка совпадает')
     else:
         print(f'{i + 1} строка не совпадает')
-
 
 
 def get(line1: str, line2: str):
