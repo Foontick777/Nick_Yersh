@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ad0bb5f-45a9-48bf-a0b1-bff0574c24d4" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/home_work/16.02.2022/Task.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lessons/file.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lessons/init/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lessons/lesson10.py" afterDir="false" />
@@ -11,7 +10,7 @@
       <change afterPath="$PROJECT_DIR$/lessons/lesson8.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lessons/lesson9.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lessons/test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_work/16.02.2022/Task.py" beforeDir="false" afterPath="$PROJECT_DIR$/home_work/16.02.2022/Task.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Task">
+  <component name="RunManager" selected="Python.lesson10">
     <configuration name="Task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Nick_Yersh" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,8 +148,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Task" />
         <item itemvalue="Python.lesson10" />
+        <item itemvalue="Python.Task" />
         <item itemvalue="Python.task10.06" />
         <item itemvalue="Python.Task4" />
         <item itemvalue="Python.lesson9" />
@@ -229,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645016345068</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="init">
+      <created>1645449006817</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1645449006817</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
