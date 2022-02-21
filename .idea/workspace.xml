@@ -2,18 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ad0bb5f-45a9-48bf-a0b1-bff0574c24d4" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/home_work/14.02.2022/task10.06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_work/14.02.2022/test1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_work/14.02.2022/test2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work/16.02.2022/Task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/file.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/init/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson10.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lessons/lesson3.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lessons/lesson7.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lessons/lesson8.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lessons/lesson9.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lessons/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home_work/09.02.2022/Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/home_work/09.02.2022/Task1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home_work/09.02.2022/Task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/home_work/09.02.2022/Task3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home_work/09.02.2022/Task4.py" beforeDir="false" afterPath="$PROJECT_DIR$/home_work/09.02.2022/Task4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +41,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.task10.06">
-    <configuration name="Task1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Task">
+    <configuration name="Task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Nick_Yersh" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -52,32 +50,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/home_work/09.02.2022" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/home_work/16.02.2022" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home_work/09.02.2022/Task1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Task3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Nick_Yersh" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/home_work/09.02.2022" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home_work/09.02.2022/Task3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home_work/16.02.2022/Task.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,6 +76,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home_work/09.02.2022/Task4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Nick_Yersh" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lessons" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lessons/lesson10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Task" />
+        <item itemvalue="Python.lesson10" />
         <item itemvalue="Python.task10.06" />
         <item itemvalue="Python.Task4" />
         <item itemvalue="Python.lesson9" />
-        <item itemvalue="Python.Task3" />
-        <item itemvalue="Python.Task1 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +208,28 @@
       <option name="project" value="LOCAL" />
       <updated>1644839150566</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="init">
+      <created>1645009269056</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1645009269057</updated>
+    </task>
+    <task id="LOCAL-00008" summary="init">
+      <created>1645009339332</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1645009339332</updated>
+    </task>
+    <task id="LOCAL-00009" summary="init">
+      <created>1645016345068</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1645016345068</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
