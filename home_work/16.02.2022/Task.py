@@ -86,14 +86,14 @@ if __name__ == "__main__":
 # 11.07
 
 class Dog:
-    def __init__(self, master = "Minsk"):
+    def __init__(self, master="Minsk"):
         self.__master = master
     def get_master(self):
         return self.__master
     def set_master(self, master):
         self.__master = master
 if __name__ == "__main__":
-    dog = Dog("Minsk")
+    dog = Dog()
     print(dog.get_master())
     dog.set_master('Brest')
     print(dog.get_master())
