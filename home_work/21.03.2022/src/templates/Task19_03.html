@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form method="POST"> {% csrf_token %} action="http://127.0.0.1:8000/main/">
+    <p>Введите имя</p>
+    <input type="text" name='first_name'><br>
+    <p>Введите фамилию</p>
+    <input type="text" name='last_name'> <br>
+    <p>Comment</p>
+    <textarea name="comment" cols="20" rows="10"></textarea>
+    <input type="submit" value="Send">
+    <input type="reset" value="Clear"></p>
+    <a href="/Task19_06">Задание 19.06</a>
+    <br>
+    <a href="/Task19_01">Задание 19.01</a>
+</form>
+</body>
+</html>
