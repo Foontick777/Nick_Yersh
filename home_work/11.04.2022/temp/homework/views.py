@@ -4,7 +4,7 @@ from django.views import View
 from .form import Form
 
 
-class GP(View):
+class GeP(View):
     def get(self, request):
         context = {
             'form': Form(),

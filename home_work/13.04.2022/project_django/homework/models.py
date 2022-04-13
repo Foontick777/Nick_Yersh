@@ -7,4 +7,4 @@ class Customer(models.Model):
     age = models.PositiveIntegerField()
 
     def __str__(self):
-        return (f'{self.firstname}, {self.lastname}, {self.age}')
+        return f'{self.firstname}, {self.lastname}, {self.age}'
