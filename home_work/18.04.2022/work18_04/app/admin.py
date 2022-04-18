@@ -9,4 +9,4 @@ class AdminStudent(admin.ModelAdmin):
 
 @admin.register(Book)
 class AdminBook(admin.ModelAdmin):
-    list_display = ('title',)
+    list_display = ('title', 'student', 'pages')

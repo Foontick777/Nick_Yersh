@@ -13,8 +13,7 @@ class Student(models.Model):
 class Book(models.Model):
     title = models.CharField(max_length=255)
     pages = models.PositiveIntegerField()
-    student = models.ForeignKey(Student, on_delete=models.DO_NOTHING)
+    student = models.ForeignKey(Student, on_delete=models.DO_NOTHING, null=True, blank=True)
 
     def __str__(self):
-        return f'{self.title}'
-
+        return f'{self.title} {self.student}'
